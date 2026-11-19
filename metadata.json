@@ -1,0 +1,8 @@
+{
+  "name": "مدیریت گیم‌نت",
+  "description": "برنامه مدیریت هوشمند صوتی کلوپ بازی و گیم‌نت با محاسبه دقیق، تایمر، خوراکی و دفتر بدهی",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
